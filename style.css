@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "open sans",sans-serif
+    ;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    background-color: white; 
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+background-color: rgb(255,255,255);
+height: 45px;
+box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px;
+
+
+}
+.Navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: #e2326d;
+    text-decoration: none;
+    transition: ease;
+    
+
+}
+a:hover{
+    text-decoration: underline;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+    
+    
+    
+
+
+button{
+    border: none;
+    background-color: #e2326d;
+    color: white;
+    padding: 10px;
+    border-radius: 9px;
+    width: 120px;
+ height: 50px ;
+}
+.white-box {
+    background-color:  #e2326d; 
+    padding: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    margin: 100px;
+    border-radius: 30px;
+    color: white;
+    width: 1300px;
+    position: relative;
+    bottom: 350px;
+}
+.box{
+    background-color: white; 
+    padding: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    margin: 100px;
+    border-radius: 30px;
+    width: 750px;
+    height: 420px;
+    position: relative;
+    bottom: 350px;
+    left: 30px;
+    right: 50px;
+    word-spacing: 5px;
+    font-size: x-large;
+
+}
+
+.image-container{
+    display: flex;
+    position: relative;
+    bottom: 300px;
+    
+   
+}
+.image{
+    display: flex;
+    position: relative;
+    bottom: 300px;
+}
+.image-container img{
+   margin: 10px;
+    border-radius: 10px;
+    height: 500px;
+    width: 600px;
+}
+.image img{
+    margin: 10px;
+    border-radius: 10px;
+    height: 500px;
+    width: 600px;
+}
+.image-boxes{
+    background-color: white;
+    border-radius: 5px; 
+  width: 100px;
+  text-align:center;
+  padding: 10px;
+  position: relative;
+ bottom: 70px;
+right: 2px;
+left: 30px;
+ 
+}
+.boxes{
+     background-color: white; 
+    padding: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    margin: 100px;
+    border-radius: 30px;
+    width: 750px;
+    height: 220px;
+    position: relative;
+    bottom: 800px;
+    left: 30px;
+    right: 50px;
+    word-spacing: 5px;
+    font-size: x-large;
+    position: relative;
+    bottom: 100px;
+}
+.important{
+    position: relative;
+    bottom: 1550px;
+    left: 700px;
+}
+.text{
+    position: relative;
+    bottom: 150px;
+    left: 220px;
+    font-size: larger;
+
+}
+.cities{
+   position: relative;
+   bottom: 300px;
+
+}
+.office{
+    position: relative;
+    bottom: 250px;
+
+}
+.Questions{
+    position: relative;
+    bottom: 1300px;
+}
+.main{
+    margin: 600px 600px; 
+    position: relative;
+    bottom: 550px;
+    width: 100%;
+    right: 590px;
+}
+.nav-bar-btn{
+    position: relative;
+    left: 1300px;
+    bottom: 20px;
+
+}
+.Login{
+    background-color: white;
+    color: #e2326d;
+    height: 40px;
+    border: 1px solid  #e2326d ;
+    width: 80px;
+    margin: 50px;
+   
+}
+.Sign-up{
+    background-color:  #e2326d;
+    color:white;
+    height: 40px;
+    width: 85px;
+}
+.globe{
+   position: relative; 
+   bottom: 90px;
+   left: 300px;
+}
+.globe-btn{
+    height: 40px;
+    width: 85px;
+    position: relative;
+    left: 40px;
+    background-color:white;
+    color: black;
+    font-size: medium;
+    bottom: 13px;
+}
+.globe-content{
+   position: relative;
+   right: 90px;
+}
+.arrow{
+    position: relative;
+    right: 55px;
+    bottom: 8px;
+}
+.cart{
+     position: relative;
+    right: 25px;
+    bottom: 5px;
+}
+
+
+.searchbox img{
+    position: relative;
+    left: 250px;
+ 
+   
+}
+.searchbox{
+    background-color: whitesmoke;
+    margin-top: 1000px;
+    position: relative;
+}
+.search{
+position: relative;
+right: 1000px;
+text-align: center;
+bottom: 500px;
+background-color: whitesmoke;
+}
+
